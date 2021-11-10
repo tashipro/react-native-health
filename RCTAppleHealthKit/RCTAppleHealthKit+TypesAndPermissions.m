@@ -77,7 +77,10 @@
         return [HKObjectType quantityTypeForIdentifier:HKQuantityTypeIdentifierAppleExerciseTime];
     }
 
-    // Nutrition Identifiers
+    /* Nutrition getReadPermFromText Identifiers */
+    if ([@"DietaryEnergy" isEqualToString: key]) {
+        return [HKObjectType quantityTypeForIdentifier:HKQuantityTypeIdentifierDietaryEnergyConsumed];
+    } 
     if ([@"Biotin" isEqualToString:key]) {
         return [HKObjectType quantityTypeForIdentifier:HKQuantityTypeIdentifierDietaryBiotin];
     } else if ([@"Caffeine" isEqualToString:key]) {
@@ -270,7 +273,7 @@
         return [HKObjectType quantityTypeForIdentifier:HKQuantityTypeIdentifierFlightsClimbed];
     }
 
-    // Nutrition Identifiers
+    /* Nutrition getWritePermFromText Identifiers */
     if ([@"Biotin" isEqualToString:key]) {
         return [HKObjectType quantityTypeForIdentifier:HKQuantityTypeIdentifierDietaryBiotin];
     } else if ([@"Caffeine" isEqualToString:key]) {

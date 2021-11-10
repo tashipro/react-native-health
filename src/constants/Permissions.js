@@ -31,6 +31,7 @@ export const Permissions = {
   Copper: 'Copper',
   CoverageRecord: 'CoverageRecord',
   EnergyConsumed: 'EnergyConsumed',
+  DietaryEnergy: "DietaryEnergy",
   EnvironmentalAudioExposure: 'EnvironmentalAudioExposure',
   FatMonounsaturated: 'FatMonounsaturated',
   FatPolyunsaturated: 'FatPolyunsaturated',

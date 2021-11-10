@@ -93,6 +93,12 @@ There is a gitbook version for the documentation on this [link](https://vinicius
 - [saveBloodAlcoholContent](saveBloodAlcoholContent.md)
 - [saveBloodGlucoseSample](saveBloodGlucoseSample.md)
 
+### Nutrition
+
+- [getNutritionSamples](getNutritionSamples.md)
+- [getCarbohydratesSamples](getCarbohydratesSamples.md)
+- [saveCarbohydratesSample](saveCarbohydratesSample.md)
+- [deleteCarbohydratesSample](deleteCarbohydratesSample.md)
 ### Mindfulness Methods
 
 - [getMindfulSession](docs/getMindfulSession.md)

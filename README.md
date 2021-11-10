@@ -199,7 +199,8 @@ they are splitted in the following categories
 - [getWater](/docs/getWater.md)
 
 ### Fitness Methods
-
+- [getLatestSteps](getLatestSteps.md)
+- [getLatestWorkouts](getLatestWorkouts.md)
 - [getDailyStepCountSamples](/docs/getDailyStepCountSamples.md)
 - [getStepCount](/docs/getStepCount.md)
 - [getSamples](docs/getSamples.md)
@@ -228,7 +229,7 @@ they are splitted in the following categories
 - [deleteBloodGlucoseSample](/docs/deleteBloodGlucoseSample.md)
 
 ### Nutrition
-
+- [getNutritionSamples](/docs/getNutritionSamples.md)
 - [getCarbohydratesSamples](/docs/getCarbohydratesSamples.md)
 - [saveCarbohydratesSample](/docs/saveCarbohydratesSample.md)
 - [deleteCarbohydratesSample](/docs/deleteCarbohydratesSample.md)

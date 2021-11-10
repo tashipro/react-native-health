@@ -18,4 +18,6 @@
 - (void)dietary_getEnergyConsumedSamples:(NSDictionary *)input callback:(RCTResponseSenderBlock)callback;
 - (void)dietary_getProteinSamples:(NSDictionary *)input callback:(RCTResponseSenderBlock)callback;
 - (void)dietary_getTotalFatSamples:(NSDictionary *)input callback:(RCTResponseSenderBlock)callback;
+
+- (void)getNutritionSamples:(NSDictionary *)input callback:(RCTResponseSenderBlock)callback;
 @end

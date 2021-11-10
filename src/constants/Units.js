@@ -26,4 +26,5 @@ export const Units = {
   pound: 'pound',
   second: 'second',
   mlPerKgMin: 'mlPerKgMin',
+  liter: "liter",
 }
