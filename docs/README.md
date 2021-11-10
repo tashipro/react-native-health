@@ -65,10 +65,11 @@ There is a gitbook version for the documentation on this [link](https://vinicius
 - [getTotalFatSamples](getTotalFatSamples.md)
 
 ### Fitness Methods
-
+- [getLatestSteps](getLatestSteps.md)
+- [getLatestWorkouts](getLatestWorkouts.md)
 - [getDailyStepCountSamples](getDailyStepCountSamples.md)
 - [getStepCount](getStepCount.md)
-- [getSamples](docs/getSamples.md)
+- [getSamples](getSamples.md)
 - [getDailyDistanceWalkingRunningSamples](getDailyDistanceWalkingRunningSamples.md)
 - [getDistanceWalkingRunning](getDistanceWalkingRunning.md)
 - [getDailyDistanceSwimmingSamples](getDailyDistanceSwimmingSamples.md)
